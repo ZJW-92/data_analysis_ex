@@ -8,12 +8,11 @@
  https://www.ssa.gov/oact/babynames/limits.html
 ```
 
-##  2. [Iris flowers]()
+##  2. [Iris flowers](https://github.com/ZJW-92/data_analysis_ex/blob/main/iris%20_flower.ipynb)
 
 ## data source 
 ```
 (http://archive.ics.uci.edu/ml/datasets/Iris)
-
 ```
 
 ###  3. 
