@@ -15,5 +15,5 @@
 (http://archive.ics.uci.edu/ml/datasets/Iris)
 ```
 
-###  3. 
+###  3. [Visualization](https://github.com/ZJW-92/data_analysis_ex/blob/main/Visualization%20.ipynb)
 
