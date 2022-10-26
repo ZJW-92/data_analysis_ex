@@ -29,4 +29,4 @@
 
 ### 9. [K means clustering](https://github.com/ZJW-92/K_means_clustering_Airbnb)
 
-### 10. [CNN](https://github.com/ZJW-92/Fashion-Class-Classification/blob/main/fashion_mnist.ipynb)
+### 10. [CNN](https://github.com/ZJW-92/Fashion-Class-Classification)
