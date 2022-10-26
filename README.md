@@ -25,7 +25,7 @@
 
 ### 7. [Linear regression](https://github.com/ZJW-92/Linear_Regression_RED)
 
-### 8 [Logistic regression](https://github.com/ZJW-92/Logistic_Regression_Tmall/blob/main/tmall.ipynb)
+### 8 [Logistic regression](https://github.com/ZJW-92/Logistic_Regression_Tmall)
 
 ### 9. [K means clustering](https://github.com/ZJW-92/K_means_clustering_Airbnb/blob/main/k-means-airbnb.ipynb)
 
