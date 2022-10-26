@@ -1,5 +1,5 @@
 
-# 10 classic examples of data analysis
+# 10 popular examples of data analysis
 
 ### 1. [Popular names in USA](https://github.com/ZJW-92/data_analysis_ex/blob/main/popular%20names%20in%20USA.ipynb)
 
