@@ -23,7 +23,7 @@
 
 ### 6. [Ames house price prediction](https://github.com/ZJW-92/Ames_House_Price_Prediction)
 
-### 7. [Linear regression](https://github.com/ZJW-92/Linear_Regression_RED/blob/main/red.ipynb)
+### 7. [Linear regression](https://github.com/ZJW-92/Linear_Regression_RED)
 
 ### 8 [Logistic regression](https://github.com/ZJW-92/Logistic_Regression_Tmall/blob/main/tmall.ipynb)
 
