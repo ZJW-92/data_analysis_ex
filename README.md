@@ -27,6 +27,6 @@
 
 ### 8 [Logistic regression](https://github.com/ZJW-92/Logistic_Regression_Tmall)
 
-### 9. [K means clustering](https://github.com/ZJW-92/K_means_clustering_Airbnb/blob/main/k-means-airbnb.ipynb)
+### 9. [K means clustering](https://github.com/ZJW-92/K_means_clustering_Airbnb)
 
 ### 10. [CNN](https://github.com/ZJW-92/Fashion-Class-Classification/blob/main/fashion_mnist.ipynb)
