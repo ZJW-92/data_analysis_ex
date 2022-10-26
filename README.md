@@ -21,7 +21,7 @@
 
 ### 5. [Feature Engineering-shared bike](https://github.com/ZJW-92/data_analysis_ex/blob/main/Shared_bike.ipynb)
 
-### 6. [Ames house price prediction](https://github.com/ZJW-92/Ames_House_Price_Prediction/blob/main/ames_house_price.ipynb)
+### 6. [Ames house price prediction](https://github.com/ZJW-92/Ames_House_Price_Prediction)
 
 ### 7. [Linear regression](https://github.com/ZJW-92/Linear_Regression_RED/blob/main/red.ipynb)
 
